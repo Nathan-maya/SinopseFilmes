@@ -1,0 +1,8 @@
+body{
+  background-color: #e5e5e5;
+}
+
+nav ul li.active, .tab a.active{
+  border-bottom: solid 2px #fff ;
+  background-color: transparent;
+}
